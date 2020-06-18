@@ -4,7 +4,7 @@
 
 A series of online courses offered by [deeplearning.ai](https://www.deeplearning.ai/).
 
-[![Generic badge](https://img.shields.io/badge/Python-AI-<BLUE>.svg)](https://shields.io/)
+![](https://img.shields.io/badge/Language-Python-orange.svg)
 
 ### 1. Neural Network and Deep Learning
 * Week 1
