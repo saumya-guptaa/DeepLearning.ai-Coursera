@@ -6,7 +6,7 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 	
 * Week 2
 	* [Quiz 2](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/week2%20quiz.md)
-	* [Logistic Regression as a Neural Network](\https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+	* [Logistic Regression as a Neural Network](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 
 * Week 3
 	* [Quiz 3](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/week3%20quiz.md)
@@ -15,7 +15,7 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 * Week 4
 	* [Quiz 4](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/week4%20quiz.md)
 	* [Building your Deep Neural Network - Step by Step](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
-	* [Deep Neural Network Application-Image Classification](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master)
+	* [Deep Neural Network Application-Image Classification](https://github.com/saumya-guptaa/DeepLearning.ai-Coursera/blob/master/01%20Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 
 ### 2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
